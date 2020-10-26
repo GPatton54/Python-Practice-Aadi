@@ -1,0 +1,5 @@
+wins = int(input("How many wins: "))
+draws = int(input("How many draws: "))
+losses = int(input("How many losses: "))
+
+print("Your score is", wins + draws)
