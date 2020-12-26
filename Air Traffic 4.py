@@ -15,4 +15,4 @@ with open("C:\covid_impact_on_airport_traffic.csv") as csv_file:
 
         for x in leest:
             leest.add(x)
-print(leest)
+print(len(leest))
